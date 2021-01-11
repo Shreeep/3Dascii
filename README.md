@@ -1,2 +1,3 @@
 # 3Dascii
-render 3d objects in ascii 
+Authors: Ezra Eyaru, Shree Nath 
+Learning how to rasterize 3D objects in a console, written in C++.
