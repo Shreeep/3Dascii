@@ -8,3 +8,5 @@ introduction to console rendering basics + header file: https://www.youtube.com/
 
 
 basic maths invovled with 3D object projection:
+https://math.stackexchange.com/questions/118832/how-are-3d-coordinates-transformed-to-2d-coordinates-that-can-be-displayed-on-th
+https://en.wikipedia.org/wiki/Rotation_matrix
